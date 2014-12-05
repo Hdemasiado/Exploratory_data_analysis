@@ -7,8 +7,18 @@ The task is to reconstruct 4 plots, using the base plotting system.
 For each plot there is a file with the plot itself, and then the code that created the plot.
 Additionaly there is an scrip used to get, clean, prepare the data so as to correctly do the plots.
 
-So we have plot1.R, plot2.R, plot3.R and plot4.R, being the scripts that create the plots.
-Then the plots themselves: plot1.png, plot2.png, plot3.png, plot4.png
+So we have the scripts that create the plots:
+- plot1.R
+- plot2.R
+- plot3.R
+- plot4.R
+-
+Then the plots themselves: 
+- plot1.png
+- plot2.png
+- plot3.png
+- plot4.png
+-
 And the cleaning script read.clean.data.for.plots.R
 
 
