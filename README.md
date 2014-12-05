@@ -12,13 +12,13 @@ So we have the scripts that create the plots:
 - plot2.R
 - plot3.R
 - plot4.R
--
+
 Then the plots themselves: 
 - plot1.png
 - plot2.png
 - plot3.png
 - plot4.png
--
+
 And the cleaning script read.clean.data.for.plots.R
 
 
